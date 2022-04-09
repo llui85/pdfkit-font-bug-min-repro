@@ -1,0 +1,11 @@
+{
+        "name": "pdfkit-font-bug-min-repro",
+        "version": "1.0.0",
+        "description": "An example repository to demonstrate a bug with subsetted PDF fonts in PDFKit.",
+        "main": "index.js",
+        "author": "llui85",
+        "license": "MPL-2.0",
+        "dependencies": {
+                "pdfkit": "^0.13.0"
+        }
+}
